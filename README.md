@@ -1,1 +1,2 @@
 # Flowers-and-Petals
+This project focuses on analyzing business operations of Flowers and Petals, a gifting company, using Microsoft Excel. The analysis is performed from an MIS Analyst perspective by integrating customer, orders, and product datasets. Pivot tables and charts are used to track sales performance, customer behavior, and product trends, helping convert raw data into meaningful insights for management reporting and decision-making.
